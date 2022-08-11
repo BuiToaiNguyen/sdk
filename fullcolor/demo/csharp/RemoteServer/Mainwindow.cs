@@ -477,5 +477,15 @@ namespace RemoteServer
             string xml = XmlCmd.GetNetworkInfo();
             this.SendXml(xml);
         }
+
+        private void RemoteList_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void UploadList_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

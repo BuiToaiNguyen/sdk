@@ -116,7 +116,7 @@
             this.btnReget.Name = "btnReget";
             this.btnReget.Size = new System.Drawing.Size(75, 25);
             this.btnReget.TabIndex = 25;
-            this.btnReget.Text = "refresh";
+            this.btnReget.Text = "reget";
             this.btnReget.UseVisualStyleBackColor = true;
             this.btnReget.Click += new System.EventHandler(this.btnReget_Click);
             // 
