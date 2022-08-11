@@ -84,7 +84,7 @@
             this.tabControl1.Location = new System.Drawing.Point(12, 66);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(404, 324);
+            this.tabControl1.Size = new System.Drawing.Size(409, 324);
             this.tabControl1.TabIndex = 2;
             // 
             // DeviceAddr
@@ -105,7 +105,7 @@
             this.DeviceAddr.Location = new System.Drawing.Point(4, 22);
             this.DeviceAddr.Name = "DeviceAddr";
             this.DeviceAddr.Padding = new System.Windows.Forms.Padding(3);
-            this.DeviceAddr.Size = new System.Drawing.Size(396, 298);
+            this.DeviceAddr.Size = new System.Drawing.Size(401, 298);
             this.DeviceAddr.TabIndex = 0;
             this.DeviceAddr.Text = "Thẻ điều khiển IP";
             this.DeviceAddr.UseVisualStyleBackColor = true;
@@ -278,7 +278,7 @@
             this.btnSVRefresh.Name = "btnSVRefresh";
             this.btnSVRefresh.Size = new System.Drawing.Size(75, 25);
             this.btnSVRefresh.TabIndex = 27;
-            this.btnSVRefresh.Text = "refresh";
+            this.btnSVRefresh.Text = "SVRefresh";
             this.btnSVRefresh.UseVisualStyleBackColor = true;
             this.btnSVRefresh.Click += new System.EventHandler(this.btnSVRefresh_Click);
             // 

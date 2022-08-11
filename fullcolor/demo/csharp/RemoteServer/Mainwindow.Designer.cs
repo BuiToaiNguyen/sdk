@@ -225,7 +225,7 @@
             this.DeleteRomoteFile.Name = "DeleteRomoteFile";
             this.DeleteRomoteFile.Size = new System.Drawing.Size(86, 25);
             this.DeleteRomoteFile.TabIndex = 0;
-            this.DeleteRomoteFile.Text = "Xóa các tập tin";
+            this.DeleteRomoteFile.Text = "DeleteRomoteFile";
             this.DeleteRomoteFile.UseVisualStyleBackColor = true;
             this.DeleteRomoteFile.Click += new System.EventHandler(this.DeleteRomoteFile_Click);
             // 
@@ -290,7 +290,7 @@
             this.Upload.Name = "Upload";
             this.Upload.Size = new System.Drawing.Size(86, 25);
             this.Upload.TabIndex = 2;
-            this.Upload.Text = "tải tệp lên";
+            this.Upload.Text = "upload";
             this.Upload.UseVisualStyleBackColor = true;
             this.Upload.Click += new System.EventHandler(this.Upload_Click);
             // 
@@ -300,7 +300,7 @@
             this.DeleteUpload.Name = "DeleteUpload";
             this.DeleteUpload.Size = new System.Drawing.Size(86, 25);
             this.DeleteUpload.TabIndex = 1;
-            this.DeleteUpload.Text = "Xóa các tập tin";
+            this.DeleteUpload.Text = "deleteupload";
             this.DeleteUpload.UseVisualStyleBackColor = true;
             this.DeleteUpload.Click += new System.EventHandler(this.DeleteUpload_Click);
             // 
@@ -310,7 +310,7 @@
             this.AddToUpload.Name = "AddToUpload";
             this.AddToUpload.Size = new System.Drawing.Size(86, 25);
             this.AddToUpload.TabIndex = 0;
-            this.AddToUpload.Text = "thêm các tập tin";
+            this.AddToUpload.Text = "AddToUpload";
             this.AddToUpload.UseVisualStyleBackColor = true;
             this.AddToUpload.Click += new System.EventHandler(this.AddToUpload_Click);
             // 
@@ -339,28 +339,28 @@
             // 
             // ProgramConfig
             // 
-            this.ProgramConfig.Location = new System.Drawing.Point(88, 8);
+            this.ProgramConfig.Location = new System.Drawing.Point(115, 9);
             this.ProgramConfig.Name = "ProgramConfig";
             this.ProgramConfig.Size = new System.Drawing.Size(346, 20);
             this.ProgramConfig.TabIndex = 2;
             // 
             // SendProgramConfig
             // 
-            this.SendProgramConfig.Location = new System.Drawing.Point(521, 6);
+            this.SendProgramConfig.Location = new System.Drawing.Point(643, 8);
             this.SendProgramConfig.Name = "SendProgramConfig";
             this.SendProgramConfig.Size = new System.Drawing.Size(75, 25);
             this.SendProgramConfig.TabIndex = 1;
-            this.SendProgramConfig.Text = "发送";
+            this.SendProgramConfig.Text = "SendProgramConfig";
             this.SendProgramConfig.UseVisualStyleBackColor = true;
             this.SendProgramConfig.Click += new System.EventHandler(this.SendProgramConfig_Click);
             // 
             // ChooseProgramConfig
             // 
-            this.ChooseProgramConfig.Location = new System.Drawing.Point(440, 6);
+            this.ChooseProgramConfig.Location = new System.Drawing.Point(467, 9);
             this.ChooseProgramConfig.Name = "ChooseProgramConfig";
-            this.ChooseProgramConfig.Size = new System.Drawing.Size(75, 25);
+            this.ChooseProgramConfig.Size = new System.Drawing.Size(133, 25);
             this.ChooseProgramConfig.TabIndex = 1;
-            this.ChooseProgramConfig.Text = "选择";
+            this.ChooseProgramConfig.Text = "ChooseProgramConfig";
             this.ChooseProgramConfig.UseVisualStyleBackColor = true;
             this.ChooseProgramConfig.Click += new System.EventHandler(this.ChooseProgramConfig_Click);
             // 
@@ -369,9 +369,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(29, 12);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(55, 13);
+            this.label1.Size = new System.Drawing.Size(80, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "配置文件";
+            this.label1.Text = "tập tin cấu hình";
             // 
             // tabPage2
             // 
