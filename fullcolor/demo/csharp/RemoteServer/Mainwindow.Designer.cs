@@ -215,7 +215,7 @@
             this.RefreshFileList.Name = "RefreshFileList";
             this.RefreshFileList.Size = new System.Drawing.Size(87, 25);
             this.RefreshFileList.TabIndex = 2;
-            this.RefreshFileList.Text = "refresh";
+            this.RefreshFileList.Text = "refresh file list";
             this.RefreshFileList.UseVisualStyleBackColor = true;
             this.RefreshFileList.Click += new System.EventHandler(this.RefreshFileList_Click);
             // 
@@ -393,21 +393,21 @@
             // 
             // btnReadNetwork
             // 
-            this.btnReadNetwork.Location = new System.Drawing.Point(330, 17);
+            this.btnReadNetwork.Location = new System.Drawing.Point(432, 17);
             this.btnReadNetwork.Name = "btnReadNetwork";
-            this.btnReadNetwork.Size = new System.Drawing.Size(85, 25);
+            this.btnReadNetwork.Size = new System.Drawing.Size(165, 25);
             this.btnReadNetwork.TabIndex = 7;
-            this.btnReadNetwork.Text = "获取网络信息";
+            this.btnReadNetwork.Text = "ReadNetwork";
             this.btnReadNetwork.UseVisualStyleBackColor = true;
             this.btnReadNetwork.Click += new System.EventHandler(this.btnReadNetwork_Click);
             // 
             // btnWriteSwitchScreen
             // 
-            this.btnWriteSwitchScreen.Location = new System.Drawing.Point(227, 64);
+            this.btnWriteSwitchScreen.Location = new System.Drawing.Point(363, 64);
             this.btnWriteSwitchScreen.Name = "btnWriteSwitchScreen";
-            this.btnWriteSwitchScreen.Size = new System.Drawing.Size(75, 25);
+            this.btnWriteSwitchScreen.Size = new System.Drawing.Size(209, 25);
             this.btnWriteSwitchScreen.TabIndex = 6;
-            this.btnWriteSwitchScreen.Text = "设置开关屏";
+            this.btnWriteSwitchScreen.Text = "btnWriteSwitchScreen";
             this.btnWriteSwitchScreen.UseVisualStyleBackColor = true;
             this.btnWriteSwitchScreen.Click += new System.EventHandler(this.btnWriteSwitchScreen_Click);
             // 
@@ -415,19 +415,19 @@
             // 
             this.btnReadSwitchScreen.Location = new System.Drawing.Point(227, 17);
             this.btnReadSwitchScreen.Name = "btnReadSwitchScreen";
-            this.btnReadSwitchScreen.Size = new System.Drawing.Size(75, 25);
+            this.btnReadSwitchScreen.Size = new System.Drawing.Size(190, 25);
             this.btnReadSwitchScreen.TabIndex = 5;
-            this.btnReadSwitchScreen.Text = "回读开关屏";
+            this.btnReadSwitchScreen.Text = "btnReadSwitchScreen";
             this.btnReadSwitchScreen.UseVisualStyleBackColor = true;
             this.btnReadSwitchScreen.Click += new System.EventHandler(this.btnReadSwitchScreen_Click);
             // 
             // btnWriteTime
             // 
-            this.btnWriteTime.Location = new System.Drawing.Point(125, 64);
+            this.btnWriteTime.Location = new System.Drawing.Point(169, 64);
             this.btnWriteTime.Name = "btnWriteTime";
-            this.btnWriteTime.Size = new System.Drawing.Size(75, 25);
+            this.btnWriteTime.Size = new System.Drawing.Size(119, 25);
             this.btnWriteTime.TabIndex = 4;
-            this.btnWriteTime.Text = "时间校正";
+            this.btnWriteTime.Text = "btnWriteTime";
             this.btnWriteTime.UseVisualStyleBackColor = true;
             this.btnWriteTime.Click += new System.EventHandler(this.btnWriteTime_Click);
             // 
@@ -435,9 +435,9 @@
             // 
             this.btnReadTime.Location = new System.Drawing.Point(125, 17);
             this.btnReadTime.Name = "btnReadTime";
-            this.btnReadTime.Size = new System.Drawing.Size(75, 25);
+            this.btnReadTime.Size = new System.Drawing.Size(96, 25);
             this.btnReadTime.TabIndex = 3;
-            this.btnReadTime.Text = "回读时间";
+            this.btnReadTime.Text = "btnReadTime";
             this.btnReadTime.UseVisualStyleBackColor = true;
             this.btnReadTime.Click += new System.EventHandler(this.btnReadTime_Click);
             // 
@@ -447,17 +447,17 @@
             this.btnWriteLight.Name = "btnWriteLight";
             this.btnWriteLight.Size = new System.Drawing.Size(75, 25);
             this.btnWriteLight.TabIndex = 2;
-            this.btnWriteLight.Text = "设置亮度";
+            this.btnWriteLight.Text = "btnWriteLight";
             this.btnWriteLight.UseVisualStyleBackColor = true;
             this.btnWriteLight.Click += new System.EventHandler(this.btnWriteLight_Click);
             // 
             // btnReadLight
             // 
-            this.btnReadLight.Location = new System.Drawing.Point(23, 17);
+            this.btnReadLight.Location = new System.Drawing.Point(6, 17);
             this.btnReadLight.Name = "btnReadLight";
-            this.btnReadLight.Size = new System.Drawing.Size(75, 25);
+            this.btnReadLight.Size = new System.Drawing.Size(113, 25);
             this.btnReadLight.TabIndex = 1;
-            this.btnReadLight.Text = "回读亮度";
+            this.btnReadLight.Text = "btnReadLight";
             this.btnReadLight.UseVisualStyleBackColor = true;
             this.btnReadLight.Click += new System.EventHandler(this.btnReadLight_Click);
             // 
@@ -501,7 +501,7 @@
             this.btnSSend.Name = "btnSSend";
             this.btnSSend.Size = new System.Drawing.Size(75, 25);
             this.btnSSend.TabIndex = 6;
-            this.btnSSend.Text = "发送";
+            this.btnSSend.Text = "btnSSend";
             this.btnSSend.UseVisualStyleBackColor = true;
             this.btnSSend.Click += new System.EventHandler(this.btnSSend_Click);
             // 
@@ -511,7 +511,7 @@
             this.btnSSelect.Name = "btnSSelect";
             this.btnSSelect.Size = new System.Drawing.Size(75, 25);
             this.btnSSelect.TabIndex = 7;
-            this.btnSSelect.Text = "选择";
+            this.btnSSelect.Text = "btnSSelect";
             this.btnSSelect.UseVisualStyleBackColor = true;
             this.btnSSelect.Click += new System.EventHandler(this.btnSSelect_Click);
             // 
@@ -528,7 +528,7 @@
             this.btnHSend.Name = "btnHSend";
             this.btnHSend.Size = new System.Drawing.Size(75, 25);
             this.btnHSend.TabIndex = 3;
-            this.btnHSend.Text = "发送";
+            this.btnHSend.Text = "btnHSend";
             this.btnHSend.UseVisualStyleBackColor = true;
             this.btnHSend.Click += new System.EventHandler(this.btnHSend_Click);
             // 
@@ -538,7 +538,7 @@
             this.btnHSelect.Name = "btnHSelect";
             this.btnHSelect.Size = new System.Drawing.Size(75, 25);
             this.btnHSelect.TabIndex = 4;
-            this.btnHSelect.Text = "选择";
+            this.btnHSelect.Text = "HSelect";
             this.btnHSelect.UseVisualStyleBackColor = true;
             this.btnHSelect.Click += new System.EventHandler(this.btnHSelect_Click);
             // 
