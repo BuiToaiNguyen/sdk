@@ -1,0 +1,11 @@
+D:\Nguyen\Winform\sdk\fullcolor\demo\csharp\LocalClient\bin\Debug\LocalClient.exe.config
+D:\Nguyen\Winform\sdk\fullcolor\demo\csharp\LocalClient\bin\Debug\LocalClient.exe
+D:\Nguyen\Winform\sdk\fullcolor\demo\csharp\LocalClient\bin\Debug\LocalClient.pdb
+D:\Nguyen\Winform\sdk\fullcolor\demo\csharp\LocalClient\obj\Debug\LocalClient.csproj.AssemblyReference.cache
+D:\Nguyen\Winform\sdk\fullcolor\demo\csharp\LocalClient\obj\Debug\LocalClient.csproj.SuggestedBindingRedirects.cache
+D:\Nguyen\Winform\sdk\fullcolor\demo\csharp\LocalClient\obj\Debug\LocalClient.AddressSet.resources
+D:\Nguyen\Winform\sdk\fullcolor\demo\csharp\LocalClient\obj\Debug\LocalClient.Properties.Resources.resources
+D:\Nguyen\Winform\sdk\fullcolor\demo\csharp\LocalClient\obj\Debug\LocalClient.csproj.GenerateResource.cache
+D:\Nguyen\Winform\sdk\fullcolor\demo\csharp\LocalClient\obj\Debug\LocalClient.csproj.CoreCompileInputs.cache
+D:\Nguyen\Winform\sdk\fullcolor\demo\csharp\LocalClient\obj\Debug\LocalClient.exe
+D:\Nguyen\Winform\sdk\fullcolor\demo\csharp\LocalClient\obj\Debug\LocalClient.pdb

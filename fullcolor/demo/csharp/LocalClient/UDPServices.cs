@@ -73,6 +73,7 @@ namespace huidu.sdk
             ISocket.SetString(packet, ref index, id, MAX_DEVICE_ID_LENGHT);
             ISocket.SetString(packet, ref index, cmd);
             this.udp_.SendTo(packet, this.udpRemote_);
+            MessageBox.Show("OK");
         }
 
         private static int MAX_UDP_PACKET           = 9 * 1024;     //UDP协议最大的一个数据包

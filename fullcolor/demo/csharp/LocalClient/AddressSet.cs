@@ -324,6 +324,16 @@ namespace LocalClient
             this.tbGateway.Text = nInfo.gateway;
             this.tbDNS.Text = nInfo.dns;
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void AddressSet_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 
